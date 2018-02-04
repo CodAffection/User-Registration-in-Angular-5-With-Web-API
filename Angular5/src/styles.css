@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+div.sm-jumbotron{
+    margin: 0px;
+    padding: 2rem;
+    background-color: #38547b;
+    color: #fff;
+}
+
+button.btn-submit{
+    background-color: #38547b;
+    color: #fff;
+    width: 100%;
+}
+button.btn-submit:focus,button.btn-submit:hover{
+    background-color: #38547b;
+}
+
+/* input.ng-invalid.ng-dirty{
+    border-bottom-color : #e91e63 !important;
+    box-shadow: 0 1px 0 0 #e91e63 !important;
+} */
