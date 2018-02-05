@@ -10,9 +10,9 @@ This is an Angular 5 Application to demonstrate implementation of User Registrat
  
  Video Tutorial : https://youtu.be/h85_GT62K6A
  
-<!-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=h85_GT62K6A
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=h85_GT62K6A
 " target="_blank"><img src="http://img.youtube.com/vi/h85_GT62K6A/0.jpg" 
-alt="Video Tutorial for Angular 5 CRUD Using Firebase" width="500" height="400" border="10" /></a> -->
+alt="Video Tutorial for Angular 5 CRUD Using Firebase" width="500" height="400" border="10" /></a>
 
 
 # All Video Tutorial Series
