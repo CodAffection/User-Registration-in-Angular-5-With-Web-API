@@ -6,6 +6,9 @@ This is an Angular 5 Application to demonstrate implementation of User Registrat
  2. Change Web API DB Connection String
  
  
+ # Related Project
+ Angular 5 : login-logout with WebAPI : https://github.com/DotnetMob/Angular-5-Login-and-Logout-in-Web-API-Using-Token-Based-Authentication
+ 
  # Step By Step Explanation
  
  Video Tutorial : https://youtu.be/h85_GT62K6A
