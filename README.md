@@ -11,7 +11,7 @@ This is an Angular 5 Application to demonstrate implementation of User Registrat
  
  # Step By Step Explanation
  
- Text Article On this Topic : https://goo.gl/nxSYGj
+ Text Article On this Topic : https://goo.gl/55LxC6
  
  Video Tutorial : https://youtu.be/h85_GT62K6A
  
